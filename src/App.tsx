@@ -1,4 +1,6 @@
 import profilePic from './assets/pfp2-square.jpg'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faGithub } from '@fortawesome/free-brands-svg-icons'
 import './App.css'
 import ProjectCard from './components/projects'
 
@@ -11,6 +13,7 @@ function App() {
         <h1>Jay Richards</h1>
         <h2>Software Engineer</h2>
       </div>
+      <a href="https://github.com/ReflectionGolden/jr-portfolio" target="_blank"><FontAwesomeIcon icon={faGithub} />GitHub Repository for this portfolio website</a>
       <div className="description">
         <p>
           A Junior Software Engineer and Platform Engineer with hands-on experience in cloud infrastructure, systems development, and full-stack programming within enterprise environments. Holds a Level 4 Software Developer Apprenticeship and industry certifications in AWS Certified Cloud Practitioner and Microsoft Azure Fundamentals. Skilled in Python, C, C#, Java, JavaScript, React.js, HTML, and Terraform, with practical experience across AWS (EC2, S3, IAM, RDS, CloudWatch) and Azure (Azure AD, RBAC, Key Vault, Sentinel). Strong understanding of cloud architecture, infrastructure as code, and modern software engineering practices.
