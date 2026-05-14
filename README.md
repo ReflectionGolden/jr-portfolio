@@ -1,21 +1,89 @@
-# React + TypeScript + Vite
+# Personal Portfolio Site
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a personal portfolio website that I have created in order to collect the various projects that I have made or contributed to for showcasing
 
-While this project uses React, Vite supports many popular JS frameworks. [See all the supported frameworks](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
+Live Demo: https://jr-portfolio-eosin.vercel.app/  
+Frontend Repo: https://github.com/ReflectionGolden/jr-portfolio
 
-## Deploy Your Own
+---
 
-Deploy your own Vite project with Vercel.
+## Table of Contents
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/framework-boilerplates/vite-react&template=vite-react)
+- [Overview](#overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Architecture](#architecture)
+- [Database Design](#database-design)
+- [API Endpoints](#api-endpoints)
+- [Installation](#installation)
+- [Environment Variables](#environment-variables)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Deployment](#deployment)
+- [Future Improvements](#future-improvements)
+- [Credits](#credits)
+- [License](#license)
 
-_Live Example: https://vite-react-example.vercel.app_
+---
 
-### Deploying From Your Terminal
+## Overview
 
-You can deploy your new Vite project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
+### Motivation
+I need a portfolio page to gather the links to the various projects that I have worked on.
 
-```shell
-$ vercel
-```
+### Objective
+This gathers together a list of the projects that I've made in order to showcase what I'm able to make and use.
+
+---
+
+## Features
+
+- Cards showcasing the various projects that I have made or worked on, including links to their sites (as applicable) and repositories.
+
+---
+
+## Tech Stack
+
+### Frontend
+- React
+- HTML
+- CSS
+- TypeScript
+- JavaScript
+
+### Tools
+- Git & GitHub
+- VS Code
+
+---
+
+## Usage
+
+1. Open the portfolio website
+2. Scroll to view my projects
+3. Pick one to take a look at
+
+---
+
+## Screenshots
+
+![Initial Page](src\assets\Screen1.png)
+
+---
+
+## Future Improvements
+
+- More project cards as I make more projects (and remember to add them here)
+
+---
+
+## Credits
+
+Developer: Jay Richards  
+GitHub: https://github.com/ReflectionGolden  
+
+---
+
+## License
+
+This project is licensed under the MIT License.
